@@ -1,0 +1,1 @@
+Cross-platform app development frameworks are such advanced technologies that the applications made with it are able to work with different operating systems, across different devices.
