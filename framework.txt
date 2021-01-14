@@ -1,1 +1,3 @@
  Flutter is a framework recently launched by Google that is being updated consistently.
+
+ Flutter app developers give a tough fight to React Native with their high-quality performances.
